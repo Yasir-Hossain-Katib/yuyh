@@ -10,7 +10,7 @@ Executed Load Testing and Stress Testing to measure system performance and deter
 <br>
 Website for APIs - https://restful-booker.herokuapp.com
 
-<h2>Testcase scenarios for API Chaining in Jmeter Test -</h2>
+<h2>Testcase scenarios for API Chaining in Jmeter Test: </h2>
 1. 5 agents perform deposits for 10 customers.<br>
 2. 5 customers send money to another 10 customers.<br>
 3. 5 customers make payments to 2 merchants.<br>
