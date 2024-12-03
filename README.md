@@ -18,8 +18,16 @@ Website for APIs - https://restful-booker.herokuapp.com
 <br>
 Website for APIs - http://dmoney.roadtocareer.net
 
+
+
 <h3>Execute the following steps using JMeter:</h3>
-git clone <repo_url><br>
-Open ApacheJMeter<br>
+   -Clone the Project 
+      - ``` git clone  ``` 
+ Open ApacheJMeter<br>
 From ApacheJMeter open the JMX File<br>
 Finally Run
+
+<h1>How to run?</h1>
+
+ - Clone the project
+    - ``` git clone https://github.com/Yasir-Hossain-Katib/DMoney-API-Testing-POSTMAN.git ```
