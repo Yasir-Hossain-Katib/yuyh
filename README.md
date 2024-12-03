@@ -7,17 +7,17 @@ Executed Load Testing and Stress Testing to measure system performance and deter
 <br>
 Website for APIs - https://restful-booker.herokuapp.com
 
-# Testcase scenarios for API Chaining in Jmeter Test -
-5 agents perform deposits for 10 customers.
-5 customers send money to another 10 customers.
-5 customers make payments to 2 merchants.
+<h3>Testcase scenarios for API Chaining in Jmeter Test -</h3>
+1. 5 agents perform deposits for 10 customers.<br>
+2. 5 customers send money to another 10 customers.<br>
+3. 5 customers make payments to 2 merchants.<br>
 
 Set the ramp-up time to 120 seconds in all the above thread configuration.<br>
 <br>
 Website for APIs - http://dmoney.roadtocareer.net
 
-Execute the following steps using JMeter:
-git clone <repo_url>
-Open ApacheJMeter
-From ApacheJMeter open the JMX File
+<h3>Execute the following steps using JMeter:</h3>
+git clone <repo_url><br>
+Open ApacheJMeter<br>
+From ApacheJMeter open the JMX File<br>
 Finally Run
