@@ -20,14 +20,14 @@ Website for APIs - http://dmoney.roadtocareer.net
 
 
 
-<h3>Execute the following steps using JMeter:</h3>
-   -Clone the Project 
-      - ``` git clone  ``` 
- Open ApacheJMeter<br>
+# Execute the following steps using JMeter:
+   -Clone the Project
+    - ```git clone https://github.com/Yasir-Hossain-Katib/DMoney-API-Testing-POSTMAN.git```
+ Open ApacheJMeter<br
 From ApacheJMeter open the JMX File<br>
 Finally Run
 
 <h1>How to run?</h1>
 
- - Clone the project
+   -Clone the Project
     - ``` git clone https://github.com/Yasir-Hossain-Katib/DMoney-API-Testing-POSTMAN.git ```
