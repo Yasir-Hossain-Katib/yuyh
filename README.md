@@ -3,7 +3,7 @@ I conducted Load Testing and Stress Testing on the Booking APIs to evaluate thei
 
 Test Case Scenarios for Load and Stress Testing:
 Created a collection of APIs (JMeter Collection) consisting of Login API, Create Booking API, and Search API HTTP requests.
-Executed Load Testing and Stress Testing to measure system performance and determine the bottleneck and capacity thresholds.
+Executed Load Testing and Stress Testing to measure system performance and determine the bottleneck and capacity thresholds.<br>
 Website for APIs - https://restful-booker.herokuapp.com
 
 Testcase scenarios for API Chaining in Jmeter Test -
