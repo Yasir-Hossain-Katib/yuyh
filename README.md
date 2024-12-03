@@ -1,3 +1,6 @@
+<h1>API_Performance_Test</h1>
+
+
 # Project Summary:
 I conducted Load Testing and Stress Testing on the Booking APIs to evaluate their performance and identify system limits. Additionally, I implemented API Chaining (JMeter Collection) for the DMoney website’s Transaction APIs. For the Transaction APIs, data was retrieved from CSV files, and multiple API requests were executed concurrently using four threads in JMeter.
 
@@ -11,8 +14,7 @@ Website for APIs - https://restful-booker.herokuapp.com
 1. 5 agents perform deposits for 10 customers.<br>
 2. 5 customers send money to another 10 customers.<br>
 3. 5 customers make payments to 2 merchants.<br>
-
-Set the ramp-up time to 120 seconds in all the above thread configuration.<br>
+4. Set the ramp-up time to 120 seconds in all the above thread configuration.<br>
 <br>
 Website for APIs - http://dmoney.roadtocareer.net
 
