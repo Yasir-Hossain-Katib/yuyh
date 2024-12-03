@@ -18,18 +18,18 @@ Website for APIs - https://restful-booker.herokuapp.com
 <br>
 Website for APIs - http://dmoney.roadtocareer.net
 
+<h2>How to Run?</h2>
 
-
-<h2> Execute the following steps using JMeter: </h2> 
+<h3> Execute the following steps using JMeter: </h3> 
    
   - ``` git clone https://github.com/Yasir-Hossain-Katib/yuyh.git ```<br>
   - ``` Open ApacheJMeter ``` <br>
   - ``` From apacheJMeter open the JMX File ```<br> 
   - ``` Finally Run ```
 
-<h2>Execute the following steps using CLI: </h2>
+<h3>Execute the following steps using CLI: </h3>
 
   - ``` git clone https://github.com/Yasir-Hossain-Katib/yuyh.git ```
   - ``` jmeter -n -t .\Booking.jmx -l .\Booking.jtl -e -o Reports ``` [For Booking APIs JMeter Collection] <br>
-  - ``` jmeter -n -t .\Dmoney.jmx -l .\Dmoney.jtl -e -o Reports ``` [For DMoney Trabsaction APIs JMeter Collection ]
+  - ``` jmeter -n -t .\Dmoney.jmx -l .\Dmoney.jtl -e -o Reports ``` [For DMoney Transaction APIs JMeter Collection ]
 
